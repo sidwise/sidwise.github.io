@@ -1,0 +1,13 @@
+url: http://memimo.net
+
+# Site Settings
+title: Mehdi Mirza
+description: ""
+keywords: "My personal page"
+google-tracking-id: UA-46819847-1
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]

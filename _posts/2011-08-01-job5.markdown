@@ -1,0 +1,8 @@
+---
+layout: null
+title: September 2011 - Present
+subtitle:
+image: "img/timeline/montreal.jpg"
+---
+Ph.D in Computer Science\\
+MILA Lab, University of Montreal

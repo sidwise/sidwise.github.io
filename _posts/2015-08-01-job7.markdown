@@ -1,0 +1,8 @@
+---
+layout: null
+title: August 2015 - December 2015
+subtitle:
+image: "img/timeline/london.jpg"
+---
+Internship\\
+Google DeepMind, London
